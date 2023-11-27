@@ -1,6 +1,6 @@
 # 👕 모으또 (Moeutto) 👕
 
-![모으또_표지](/uploads/3092b49c42c37dc664d60ef1010f39cc/모으또_표지.PNG)
+![모으또_표지](https://github.com/seoyoung81/Moeutto/assets/122508505/c470c175-6aa7-43c6-bd81-3ba55ee6e702)
 
 > 옷장 관리, 분석 및 날씨 기반 착장 추천 서비스
 
@@ -40,7 +40,7 @@
 | ------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------------- | ------------------------------------------------- |
 | <p align="left" style="color:skyblue">Backend</p> | <p align="left" style="color:skyblue">Backend <br> Infra</p> | <p align="left" style="color:skyblue">Backend <br> ML | <p align="left" style="color:skyblue">Backend</p> | <p align="left" style="color:pink">Frontend</p>         | <p align="left" style="color:pink">Frontend</p>   |
 | 가격, 빈도에 따른 옷장 분석 <br> 캘린더 API <br> 친구 (SNS) API <br> 소셜 로그인 페이지 <br> 튜토리얼 페이지 <br>             |   Kakao OAuth를 활용한 회원 관리 <br> 옷 등록 API <br> 빈도, 활용도에 따른 옷장 분석 API <br> AI 착장 검사 API <br> S3 Bucket API   <br> CI/CD 구축              |  옷 배경 제거 <br> 카테고리 및 색상 분류 <br> 적합도 점수 산정 <br> AI 코멘트 생성<br> 옷 추천 및 평가    | 옷장, AI 착장 추천, 방명록, 카테고리, 친구 착장 추천 REST API <br> bs4와 mulitprocess를 이용한 의류 이미지 크롤링 | 메인 페이지<br>유저 위치에 따른 날씨 업데이트<br>카테고리별 나의 옷장 보기<br>캘린더<br>오늘 코디 채점<br>친구 코디 추천| 나의 옷장 등록 나의 옷장 분석 <br> 오늘 코디 채점 <br> 캘린더 등록 <br> 친구 검색 등록<br>친구 옷장 구경 <br>방명록 작성|
-| [@27kanghan](https://github.com/27kanghan)        | [@mycodeisnoob](https://github.com/mycodeisnoob)  | [@hannernos](https://github.com/hannernos)        | [@psj98](https://github.com/psj98)           | [@seoyoung81](https://github.com/seoyoung81)         |  [@s01k1m618](https://github.com/s01k1m618)        |
+| [@27kanghan](https://github.com/27kanghan)        | [@mycodeisnoob](https://github.com/mycodeisnoob)  | [@hannernos](https://github.com/hannernos)        | [@psj98](https://github.com/psj98)           | [@seoyoung81](https://github.com/seoyoung81)         |  [@s01k1m](https://github.com/s01k1m618dev)        |
 
 <br/>
 
@@ -147,7 +147,7 @@
 
 ## 아키텍처
 
-![아키텍처](/uploads/fde1818acedff181f29ea0f58649a443/제목_없음.png)
+![아키텍쳐](https://github.com/seoyoung81/Moeutto/assets/122508505/ce2cdf5d-ca09-4c10-a963-93c845584865)
 
 <br/>
 
